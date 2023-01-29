@@ -7767,3 +7767,8 @@ header.masthead p {
 section.contact {
   background-color: white;
 }/*# sourceMappingURL=app.css.map */
+
+.pickup__instagram {
+  margin: 0 auto;
+  max-width: 500px;
+}
